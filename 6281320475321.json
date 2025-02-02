@@ -1,0 +1,135 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {},
+  "users": {
+    "6285830294105@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "e87856b1aa8b26558aa412c529b260dd",
+      "nick": "+62 858-3029-4105",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 30,
+      "uang": 10000,
+      "lastclaim": 1738429135233,
+      "lastrampok": 1738429135233
+    },
+    "6281320475321@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "527b8fc4c3c3d0f38d6935723b448edc",
+      "nick": "xAezteru_",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738429492626,
+      "lastrampok": 1738429492626
+    },
+    "6283109150431@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "db50a50a166e55cd9f0c416acc4c2f8c",
+      "nick": "DH",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738448619468,
+      "lastrampok": 1738448619468
+    }
+  },
+  "chats": {
+    "6285830294105@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363307928805869@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "447876137368@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    }
+  },
+  "settings": {
+    "6285830294105@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "online": false,
+      "safesearch": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "autoblocknum": false,
+      "onlygc": false,
+      "onlypc": false,
+      "watermark": {
+        "packname": "Creator",
+        "author": "FallZx Infinity"
+      },
+      "about": {
+        "bot": {
+          "nick": "+62 858-3029-4105",
+          "alias": "Yaemiko MD"
+        },
+        "owner": {
+          "nick": "+62 858-1370-8397",
+          "alias": "6285813708397"
+        }
+      }
+    }
+  }
+}
