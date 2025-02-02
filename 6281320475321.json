@@ -38,7 +38,7 @@
       "nick": "DH",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 99,
       "uang": 10000,
       "lastclaim": 1738448619468,
       "lastrampok": 1738448619468
@@ -173,6 +173,24 @@
       "mute": false
     },
     "120363395656850043@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "6281320475321@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
